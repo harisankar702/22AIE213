@@ -13,3 +13,4 @@ def tej():
 vc,cc=tej()
 print("No. of vowels in the string are: ",vc)
 print("No. of consonents in the string are: ",cc)
+hguehbd
